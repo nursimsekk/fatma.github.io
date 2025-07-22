@@ -1,0 +1,17 @@
+---
+title: Trapez Alanı Hesaplama
+date: 2025-07-22
+---
+
+Python ile trapez alanı hesaplama örneği:
+
+```python
+a = 5  
+b = 10  
+height = 7 
+
+# Complete the next line.
+
+area = 1/2 * (a + b) * height
+
+print('Area of a Trapezium is :', area)
