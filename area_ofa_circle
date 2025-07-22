@@ -1,0 +1,15 @@
+---
+title: Dairenin Alanı Hesaplama
+date: 2025-07-22
+---
+
+```python
+import math
+
+r = 10
+
+# Complete the formula for the area of the circle in below line.
+
+area = math.pi * r * r
+
+print("Area is : ", area)
