@@ -1,0 +1,9 @@
+u = 4
+v = 6
+a = 3
+
+
+
+d = (v*v - u*u) / (2 * a)
+
+print("Displacement is : ", d)
