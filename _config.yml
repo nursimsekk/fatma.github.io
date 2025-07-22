@@ -1,0 +1,5 @@
+title: Python Blogum
+description: "Python alıştırmalarım ve kod örneklerim"
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
