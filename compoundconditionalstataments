@@ -1,0 +1,9 @@
+a = 5
+b = 7
+c = 3
+
+a > b and a > c
+
+a > b or a > c
+
+not a == 8
