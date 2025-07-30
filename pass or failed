@@ -1,0 +1,9 @@
+maths = 50
+physics = 70
+chem = 45
+
+#Write the condition below
+if ( maths >= 45 and physics >= 45 and chem >= 45):
+    print("Pass")
+else:
+    print("Failed")
