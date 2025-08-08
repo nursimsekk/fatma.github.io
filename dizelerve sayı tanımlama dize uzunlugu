@@ -1,0 +1,10 @@
+s1= 'Hello'
+print(s1[0])
+
+s1= 'Hello'
+len ( s1) 
+
+s1= 'Hello'
+for x in s1:
+    print(x)  
+  
