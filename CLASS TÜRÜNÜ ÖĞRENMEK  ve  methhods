@@ -1,0 +1,31 @@
+S1 = 'Hello'
+print (type ( S1) )
+
+
+S = 'Hello How are You'
+X = S.find('o')
+print ( X)
+
+S = 'Hello How are You'
+X = S.find('How')
+print(X)
+
+S = 'Hello How are You'
+X = S.find('o', 5)
+print ( X)
+
+S = 'Hello How are You'
+X = S.find('o', 5 , 7)
+print ( X)
+
+S = 'Hello How are You'
+X = S.index(How)
+print (X)
+
+S = 'Hello How are You'
+X = S.rindex('o')
+print (x)
+
+S = 'Hello How are You'
+X = S.count('o')
+print(X)
