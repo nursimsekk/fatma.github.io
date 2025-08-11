@@ -1,0 +1,6 @@
+S1 = 'python'
+S1.startswith('python')
+print ( S2 )
+
+endswith neyle bitiyor
+removeprefix istediğini çıkartmak için  ve removesuffix sondan çıkartmak için 
