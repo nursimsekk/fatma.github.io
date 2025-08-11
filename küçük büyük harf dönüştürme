@@ -1,0 +1,5 @@
+capitalize () baş hariç hepsi küçük harf
+upper hepsi büyük harf
+lower hepsi küçük harf
+title bas kelimelerın hepsi büyük harf
+swapcase büyükleri küçük küçükleri büyük yap
