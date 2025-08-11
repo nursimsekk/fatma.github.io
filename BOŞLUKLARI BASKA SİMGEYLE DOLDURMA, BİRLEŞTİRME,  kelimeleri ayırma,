@@ -1,0 +1,12 @@
+S1 = 'a-b-c-d-e'
+S2 = S1.replace('-','*')
+print (S2)
+
+S1 = 'xyz'
+S2 = 'abc'
+S3 = S1.join(S2)
+print( S3 )
+
+S1 = 'JOHN SMITH'
+S2 = S1.split( )
+print( S2 )
